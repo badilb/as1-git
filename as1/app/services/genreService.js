@@ -33,5 +33,5 @@ exports.deleteGenre = (genreId) => {
         genres.splice(index, 1);
         return "Genre net";
     }
-    return "Genre not found";
+    return "Genre ne naiden";
 }
